@@ -30,8 +30,6 @@ product of digits).
 6. A number is called wave number if its digits alternately increase and decrease.Check whether a given number is a wave number.
 
 
-24 left 
-
 7. Print all numbers between 1 and N that are divisible by the sum of their digits.
 
 8. Given a number, rotate its digits to the right by K positions and print the new
@@ -39,21 +37,20 @@ number.
 
 9. Generate all palindromic numbers between two given limits.
 
-10.Given a number N, find the smallest number greater than N that is a
+10. Given a number N, find the smallest number greater than N that is a
 palindrome.
 
-11.A number is called a twisted prime if the number and its reverse are both
+11.  A number is called a twisted prime if the number and its reverse are both
 prime.Check whether a given number satisfies this property.
 
-12.Determine whether a number is a circular prime.
+12. Determine whether a number is a circular prime.
 
-13.Given a number, check whether it can be expressed as the sum of
+13. Given a number, check whether it can be expressed as the sum of
 consecutive natural numbers.
 
-14.Find the number of trailing zeros in the factorial of a given number without
+14. Find the number of trailing zeros in the factorial of a given number without
 actually computing the factorial.
 
------------------------------------------------------------------------------------
 
 15.Given two numbers A and B, determine whether they are friendly pairs
 (ratio of sum of divisors to the number is same). <>
