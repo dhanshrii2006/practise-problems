@@ -52,13 +52,13 @@ consecutive natural numbers.
 actually computing the factorial.
 
 
-15.Given two numbers A and B, determine whether they are friendly pairs
+15. Given two numbers A and B, determine whether they are friendly pairs
 (ratio of sum of divisors to the number is same). <>
 
 16.Given an array, find the length of the longest increasing contiguous
 subarray.
-17.Rearrange an array such that all negative numbers appear before positive
-numbers without changing their relative order.
+17.Rearrange an array such that all negative numbers appear before positive numbers without changing their relative order.
+
 18.Given an array, determine whether it can be divided into two parts with
 equal sum.
 19.Find all leaders in an array
